@@ -1,6 +1,6 @@
 # 📝 15. 3Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/3sum/)
+🔗 [Problem Link](https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=sorting&)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
